@@ -1,0 +1,4 @@
+rootProject.name = 'wms-backend'
+include 'inbound-domain'
+include 'external-api'
+
