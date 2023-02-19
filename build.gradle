@@ -49,16 +49,3 @@ subprojects {
 
 }
 
-//project(':inbound-domain') {
-//    bootJar.enabled = false
-//    jar.enabled = true
-//
-//    dependencies {
-//    }
-//}
-
-//project(':external-api') {
-//    dependencies {
-//    }
-//}
-
